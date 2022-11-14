@@ -44,8 +44,8 @@
 
 </div>
 <p><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design" height="140"/></p>
+<img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design"/></p><br>
 
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mvrtn-design&show_icons=true&locale=en" alt="mvrtn-design" width="600" height="190" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvrtn-design&show_icons=true&locale=en" alt="mvrtn-design" />
 </p>
