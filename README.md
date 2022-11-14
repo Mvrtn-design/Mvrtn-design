@@ -7,7 +7,6 @@
 <br><br>
 - 🌱 I’m currently learning a several languages, but with some high interest as a beginner in **Cobol, Thread treatment** etc.
 - 👀 I'm interested in programming in different languages, design patterns or concurrent programming.
-<br>
 
 <div id="secondOne" align="center">
   <h3>Languages and Tools</h3><br>
@@ -44,9 +43,9 @@
    </a><br><br>
 
 </div>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design" /></p>
+<p><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design" height="140"/></p>
 
-<p>&nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mvrtn-design&show_icons=true&locale=en" alt="mvrtn-design" />
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mvrtn-design&show_icons=true&locale=en" alt="mvrtn-design" width="600" height="190" />
 </p>
