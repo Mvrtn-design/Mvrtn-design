@@ -4,7 +4,7 @@
   <h3 align="center">A PASSIONATE COMPUTER ENGINEERING STUDENT FROM SPAIN</h3>
 </div>
 
-<br><br>
+<br>
 - 🌱 I’m currently learning  several languages and code techniques etc.
 - 👀 I'm interested in programming in different languages, design patterns or concurrent programming.
 
@@ -42,9 +42,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
    </a><br><br>
 
-<p><br>
-<img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design"/></p><br>
-
+<p>
+<img align="center " src="https://github-readme-stats.vercel.app/api/top-langs?username=mvrtn-design&show_icons=true&locale=en&layout=compact" alt="mvrtn-design"/></p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvrtn-design&show_icons=true&locale=en" alt="mvrtn-design" />
 </p>
