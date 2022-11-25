@@ -5,7 +5,7 @@
 </div>
 
 <br>
-- 🌱 I’m currently learning  several languages and code techniques etc.
+- 🌱 I’m currently learning  several languages and code techniques etc.<br>
 - 👀 I'm interested in programming in different languages, design patterns or concurrent programming.
 
 <div id="secondOne" align="center">
