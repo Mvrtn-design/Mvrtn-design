@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Mvrtn-design/Mvrtn-design/blob/ilustration/ilustration.gif" alt="android" width="360" height="200"/>
   <h1 align=center" >👋 Hi, I’m @Mvrtn-design</h1>
-  <h3 align="center">A PASSIONATE COMPUTER ENGINEERING STUDENT FROM SPAIN</h3>
+  <h3 align="center">A PASSIONATE COMPUTER ENGINEER FROM SPAIN</h3>
 </div>
 
 <br>
